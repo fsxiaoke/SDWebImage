@@ -113,6 +113,7 @@
             
             SDImageFrame *frame = [SDImageFrame frameWithImage:image duration:duration];
             [frames addObject:frame];
+            break; //liy:只允许解第一帧
         }
         
         NSUInteger loopCount = [self sd_imageLoopCountWithSource:source];
