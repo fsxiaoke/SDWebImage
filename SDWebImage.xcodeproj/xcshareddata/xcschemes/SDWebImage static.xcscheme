@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "53761307155AD0D5005750A4"
                BuildableName = "libSDWebImage.a"
-               BlueprintName = "SDWebImage static"
+               BlueprintName = "SDWebImage"
                ReferencedContainer = "container:SDWebImage.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,8 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -47,12 +45,10 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "53761307155AD0D5005750A4"
             BuildableName = "libSDWebImage.a"
-            BlueprintName = "SDWebImage static"
+            BlueprintName = "SDWebImage"
             ReferencedContainer = "container:SDWebImage.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
